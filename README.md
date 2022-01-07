@@ -1,9 +1,9 @@
 # Too Good To Go API client (tgt-go)
 
-[![Coverage](https://codecov.io/gh/filippalach/tgt-go/branch/master/graphs/badge.svg?branch=main)](https://codecov.io/gh/filippalach/tgt-go)
+[![Coverage](https://codecov.io/gh/filippalach/tgt-go/branch/main/graph/badge.svg)](https://codecov.io/gh/filippalach/tgt-go)
 [![Build Status](https://github.com/filippalach/tgt-go/actions/workflows/ci.yaml/badge.svg)](https://github.com/filippalach/tgt-go/actions)
 [![GoDoc](https://godoc.org/github.com/filippalach/tgt-go?status.svg)](https://godoc.org/github.com/filippalach/tgt-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/nwillc/snipgo)](https://goreportcard.com/report/github.com/filippalach/tgt-go/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/filippalach/tgt-go)](https://goreportcard.com/report/github.com/filippalach/tgt-go)
 
 tgt-go is an unofficial Go client library for accessing the Too Good To Go API.
 

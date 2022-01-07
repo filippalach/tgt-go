@@ -54,7 +54,7 @@ type SignupResponse struct {
 	Login Login `json:"login_response"`
 }
 
-// Login is a part of SignupResponse and represents a response body in sucessful signup process.
+// Login is a part of SignupResponse and represents a response body in successful signup process.
 type Login struct {
 	AccessToken    string      `json:"access_token"`
 	RefreshToken   string      `json:"refresh_token"`
